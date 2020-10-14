@@ -4,7 +4,7 @@ import { FiArrowRight } from 'react-icons/fi';
 import { Link } from 'react-router-dom';
 
 import "../styles/global.css";
-import "../styles/pages/landing.css"
+import "../styles/pages/Landing.css"
 
 import logoImg from "../images/Logo.svg";
 
